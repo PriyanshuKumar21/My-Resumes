@@ -1,0 +1,1 @@
+This repository contains my Software Engineer and Business Analyst resumes, highlighting key skills, projects, and achievements. Both are ATS-friendly and showcase technical expertise and data-driven accomplishments.
